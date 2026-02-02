@@ -1,0 +1,12 @@
+# Create profile README
+echo "# Hi, I'm Moe Kyaw Aung" > README.md
+
+# Add badges (install gh-md-toc for table of contents)
+npm install -g github-readme-stats
+
+# Pin important repositories
+# Go to your GitHub profile -> Customize pins -> Select 6 best projects
+
+# Create organization for specific tech stacks
+# Example: https://github.com/MoeKyawAung-Python-Projects
+# Example: https://github.com/MoeKyawAung-React-Projects
